@@ -1,0 +1,6 @@
+com/abakumov/pincode_example/databinding/ActivityHomeBinding.java
+ com.abakumov.pincode_example.databinding.ActivityHomeBinding
+com/abakumov/pincode_example/BuildConfig.java
+ com.abakumov.pincode_example.BuildConfig
+com/abakumov/pincode_example/databinding/ActivityMainBinding.java
+ com.abakumov.pincode_example.databinding.ActivityMainBinding

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PinCode-Example</string>
+
+    <string name="logo">logotype</string>
+    <string name="pinCreated">Создать ПИН-код</string>
+    <string name="pin">ПИН-код</string>
+    <string name="forgot">Забыли ПИН-код?</string>
+</resources>
